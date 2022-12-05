@@ -85,7 +85,7 @@
     .row.justify-content-around.align-items-center
       .col-lg-12
         figure(data-aos="zoom-in-left")
-          img(src='@/assets/curso/temas/tema1/img4.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/img4.png', alt='Texto que describa la imagen')
 
     .row.mt-5
       h3 Tipos de indicadores
@@ -293,7 +293,7 @@
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-12
         figure(data-aos="zoom-in-left")
-          img(src='@/assets/curso/temas/tema1/img21.svg', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema1/img21.png', alt='Texto que describa la imagen') 
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-10
@@ -327,27 +327,27 @@
       .row.justify-content-around.align-items-center.mt-3
         .col-lg-4
           figure(data-aos="zoom-in")
-            img(src="@/assets/curso/temas/tema1/img22.svg", alt="alt").img400.m-auto
+            img(src="@/assets/curso/temas/tema1/img22.svg", alt="alt").img400.m-auto.banner-principal-decorativo-3
         .col-lg-8
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA").mt-3
             .row(titulo="Eficacia")
               .col-lg-2.col-xs-6
                 figure(data-aos="zoom-in")
-                  img(src="@/assets/curso/temas/tema1/img23.svg", alt="alt") 
+                  img(src="@/assets/curso/temas/tema1/img23.svg", alt="alt").width-tema1-acordeon
               .col-lg-10.col-xs-12
                 p.mb-0.mt-3 La eficacia es la relación entre un servicio disponible y la necesidad para la que ha sido creado. Cuando esta relación es positiva, la eficacia del producto es alta. Pero si la necesidad del cliente sigue sin ser atendida tras la adquisición de dicho servicio, el indicador es negativo.
 
             .row(titulo="Valoración de ventas ")
               .col-lg-2.col-xs-7
                 figure(data-aos="zoom-in")
-                  img(src="@/assets/curso/temas/tema1/img24.svg", alt="alt") 
+                  img(src="@/assets/curso/temas/tema1/img24.svg", alt="alt").width-tema1-acordeon
               .col-lg-10.col-xs-12
                 p.mb-0.mt-3 El volumen de ventas es, sin duda, el elemento más empleado para medir la calidad de un servicio. Vender mucho casi siempre es sinónimo de éxito: indica que el servicio ha tenido una buena acogida y que ha generado gran interés. No obstante, esta relación no supone en todos los casos un grado alto de calidad. Se puede vender mucho sin que el servicio sea del todo bueno.
 
             .row(titulo="Servicio al cliente")
               .col-lg-2.col-xs-7
                 figure(data-aos="zoom-in")
-                  img(src="@/assets/curso/temas/tema1/img25.svg", alt="alt") 
+                  img(src="@/assets/curso/temas/tema1/img25.svg", alt="alt").width-tema1-acordeon
               .col-lg-10.col-xs-12
                 p.mb-0.mt-3 El servicio al cliente mide los niveles de calidad en el servicio posventa, teniendo en cuenta, por ejemplo, la cantidad de quejas existentes frente al desarrollo del evento. Cuanto menor sea el número de quejas, más satisfechos estarán los asistentes y la misma empresa contratante. Disponer de actitud y de compromiso suma aspectos relevantes para tener un adecuado servicio al cliente.
 

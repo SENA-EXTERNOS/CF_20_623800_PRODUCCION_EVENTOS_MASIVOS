@@ -12,7 +12,7 @@
           .row.justify-content-around.align-items-center.mt-3.banner2-tema-2
             .col-lg-2
               figure(data-aos="zoom-in")
-                img(src="@/assets/curso/temas/tema2/img1.png", alt="alt")
+                img(src="@/assets/curso/temas/tema2/img1.png", alt="alt").width-tema1-acordeon
 
             .col-lg-10.p-4
               p Las empresas que buscan aumentar la satisfacción de sus clientes deben ser conscientes del establecimiento de mejoras que deben realizar en sus productos o servicios. El objetivo de definir una estrategia de mejora continua es poder ser sostenibles en el tiempo y que el negocio siga funcionando de manera correcta, a partir del reconocimiento de los errores que se tengan en los procesos.
@@ -29,7 +29,7 @@
     .row  
       p Para tener un adecuado plan de mejoramiento continuo, se debe contar con los siguientes pasos:
 
-    ImagenInfografica.color-primario
+    ImagenInfografica.color-secundario
       template(v-slot:imagen)
         figure(data-aos="zoom-in-left")
           img(src='@/assets/curso/temas/tema2/img2.svg', alt='Texto que describa la imagen')
@@ -81,41 +81,41 @@
         p Estrategias de mejoramiento continuo en la empresa:   
 
     TabsC.color-primario
-      .py-3.py-md-4(titulo="Analizar el rendimiento")
-        .row
+      .py-3.py-md-4(titulo="Analizar el rendimiento").background-slider-tema2
+        .row.justify-content-around.align-items-center.mt-3
           .col-md-6
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema2/img4.svg', alt='Texto que describa la imagen')
               
           .col-md-6.mb-4.mb-md-0
-            p Hace parte de un diagnóstico empresarial que evidencia los puntos fuertes y los débiles con respecto al rendimiento de un proceso. Es con esta estrategia que se pueden aplicar mejoras y llegar a resultados óptimos.
+            p.text-white Hace parte de un diagnóstico empresarial que evidencia los puntos fuertes y los débiles con respecto al rendimiento de un proceso. Es con esta estrategia que se pueden aplicar mejoras y llegar a resultados óptimos.
           
-      .py-3.py-md-4(titulo="Prevenir es la clave")
-        .row
+      .py-3.py-md-4(titulo="Prevenir es la clave").background-slider-tema2
+        .row.justify-content-around.align-items-center.mt-3
           .col-md-6.mb-4.mb-md-0
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema2/img5.svg', alt='Texto que describa la imagen')
               
           .col-md-6
-            p Si bien todo proceso puede mejorar y todo error tiene su solución, es importante que la cultura organizacional se enfoque en prevenir y no en solucionar. De esta manera, se podrán identificar áreas o procesos en los que hay que centrar las herramientas de mejora continua.
+            p.text-white Si bien todo proceso puede mejorar y todo error tiene su solución, es importante que la cultura organizacional se enfoque en prevenir y no en solucionar. De esta manera, se podrán identificar áreas o procesos en los que hay que centrar las herramientas de mejora continua.
 
-      .py-3.py-md-4(titulo="Motivación e incentivos")
-        .row
+      .py-3.py-md-4(titulo="Motivación e incentivos").background-slider-tema2
+        .row.justify-content-around.align-items-center.mt-3
           .col-md-6
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema2/img6.svg', alt='Texto que describa la imagen')
               
-          .col-md-6.mb-4.mb-md-0
-            p Anteriormente se había hablado de la importancia de tener a todo el equipo de trabajo comprometido con la mejora continua, sin embargo, esto es una labor que se debe cultivar, por lo cual son necesarios los incentivos que valoren la labor de los empleados y los motiven a hacer parte de la filosofía organizacional. Este proceso puede estar compuesto por bonos, regalos, días de descanso, etc.; también se deben tener presentes las jornadas de capacitación que buscan generar un mayor conocimiento en los empleados, e incluso enseñarles varias funciones que puedan ser útiles en sus tiempos de vacaciones o enfermedad. Otro punto para considerar, y que siempre es bien visto, es organizar sesiones de ideas donde se tome en cuenta el punto de vista de los empleados, para crear, reforzar o mejorar procesos, teniendo en cuenta los puntos débiles para aplicar nuevas estrategias. 
+          .col-md-5.mb-4.mb-md-0
+            p.text-white Anteriormente se había hablado de la importancia de tener a todo el equipo de trabajo comprometido con la mejora continua, sin embargo, esto es una labor que se debe cultivar, por lo cual son necesarios los incentivos que valoren la labor de los empleados y los motiven a hacer parte de la filosofía organizacional. Este proceso puede estar compuesto por bonos, regalos, días de descanso, etc.; también se deben tener presentes las jornadas de capacitación que buscan generar un mayor conocimiento en los empleados, e incluso enseñarles varias funciones que puedan ser útiles en sus tiempos de vacaciones o enfermedad. Otro punto para considerar, y que siempre es bien visto, es organizar sesiones de ideas donde se tome en cuenta el punto de vista de los empleados, para crear, reforzar o mejorar procesos, teniendo en cuenta los puntos débiles para aplicar nuevas estrategias. 
 
-      .py-3.py-md-4(titulo="Hora de ocuparse y no estresarse")
-        .row
-          .col-md-6.mb-4.mb-md-0
+      .py-3.py-md-4(titulo="Hora de ocuparse y no estresarse").background-slider-tema2
+        .row.justify-content-around.align-items-center.mt-3
+          .col-md-5.mb-4.mb-md-0
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema2/img7.svg', alt='Texto que describa la imagen')
               
-          .col-md-6
-            p Siempre quisiéramos que los resultados esperados en una organización fueran óptimos y se reflejarán en el ahora; sin embargo, se debe reconocer que los resultados esperados no se pueden controlar, porque siempre se presentan variables que pueden intervenir en última instancia. En lugar de estresarse por ello, se debe centrar en encontrar estrategias o herramientas que ayuden a crecer, ser flexibles y adaptarse a los cambios constantes del entorno. 
+          .col-md-5
+            p.text-white Siempre quisiéramos que los resultados esperados en una organización fueran óptimos y se reflejarán en el ahora; sin embargo, se debe reconocer que los resultados esperados no se pueden controlar, porque siempre se presentan variables que pueden intervenir en última instancia. En lugar de estresarse por ello, se debe centrar en encontrar estrategias o herramientas que ayuden a crecer, ser flexibles y adaptarse a los cambios constantes del entorno. 
 
     .row.mt-5
       h3 Métodos de mejora continua
