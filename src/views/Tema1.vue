@@ -250,7 +250,7 @@
       .col-lg-6
         .bloque-texto-f.color-secundario.p-4.mt-3 
           .bloque-texto-f__texto
-            pLa responsabilidad contractual tiene su origen en el incumplimiento de las obligaciones suscritas entre las partes, dado que existe una responsabilidad contractual que nace de no haberse cumplido un acuerdo de voluntades plasmadas, creándose una obligación de reparar el daño existiendo una obligación por indemnizar cuando se demuestre la culpa (Conceptos jurídicos, s.f.).
+            p La responsabilidad contractual tiene su origen en el incumplimiento de las obligaciones suscritas entre las partes, dado que existe una responsabilidad contractual que nace de no haberse cumplido un acuerdo de voluntades plasmadas, creándose una obligación de reparar el daño existiendo una obligación por indemnizar cuando se demuestre la culpa (Conceptos jurídicos, s.f.).
 
     .row.mt-5
       p Para que esta responsabilidad contractual prospere, se deben demostrar algunos elementos, como los siguientes:
