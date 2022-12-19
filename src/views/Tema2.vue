@@ -164,7 +164,7 @@
 
     .row.justify-content-around.align-items-center.mt-3
       .col-lg-10
-        p Se presenta a continuación el Ciclo PDCA o Rueda Deming, la cual se centra en la calidad bajo una metodología cíclica que busca la mejora en dicha área. Cada letra tiene un significado y se representa de la siguiente manera:
+        p Se presenta a continuación el Ciclo PDCA o Rueda #[i Deming], la cual se centra en la calidad bajo una metodología cíclica que busca la mejora en dicha área. Cada letra tiene un significado y se representa de la siguiente manera:
 
 
     .row.justify-content-around.align-items-center.mt-3

@@ -180,7 +180,7 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
-            p La tercerización de servicios es una práctica por la cual una empresa contrata a otra para desarrollar ciertas labores y reducir costos generales. Se puede aplicar a “procesos internos de la compañía como funciones de contabilidad o servicios de #[i contact centers] y procesos externos como recursos humanos, marketing, documentación, logística o seguimiento comercial, para lograr control, estabilidad, trazabilidad y transparencia en ellos.” (Colsubsidio, s.f.).
+            p La tercerización de servicios es una práctica por la cual una empresa contrata a otra para desarrollar ciertas labores y reducir costos generales. Se puede aplicar a “procesos internos de la compañía como funciones de contabilidad o servicios de #[i contact centers] y procesos externos como recursos humanos, #[i marketing], documentación, logística o seguimiento comercial, para lograr control, estabilidad, trazabilidad y transparencia en ellos.” (Colsubsidio, s.f.).
 
           .col-md-6
             figure(data-aos="zoom-in-left")
@@ -211,7 +211,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0
-            p Ahora, este proceso de tercerización puede darse dentro del mismo país, a lo cual se le conoce como #[i inshore], o también se pueden hacer contrataciones con empresas extranjeras para llevar a cabo las diferentes labores, a esto se le conoce como offshore.
+            p Ahora, este proceso de tercerización puede darse dentro del mismo país, a lo cual se le conoce como #[i inshore], o también se pueden hacer contrataciones con empresas extranjeras para llevar a cabo las diferentes labores, a esto se le conoce como #[i offshore].
 
             p Sea cual sea la modalidad, tercerizar algunos servicios puede ayudarle a las organizaciones a fortalecer sus actividades más productivas, como, por ejemplo, abrir nuevos mercados o crear una nueva línea de productos o servicios; agilizando de esta manera sus procesos y disminuyendo las cargas en otras labores que pueden ser desarrolladas por empresas externas, y que de hecho saldrían más económicas, que tener el tiempo ocupado en asuntos menos productivos. 
 
@@ -307,7 +307,7 @@
             p Se aplica cuando la empresa organizadora de eventos se encarga de realizar toda la gestión del acontecimiento, creando comités de trabajo que permitirán llevar a cabo lo deseado por la empresa contratante. En este caso, el organizador de eventos se encarga de realizar la contratación de proveedores, montaje, logística, #[i catering] y demás aspectos, a fin de cumplir con las expectativas de los asistentes.
 
           .tarjeta.clr-paleYellow.p-4(titulo="Modelo de tercerización")
-            h4 Decretos
+            h4 Modelo de tercerización
             p Se aplica cuando las organizadoras de eventos buscan centrar su negocio en las actividades propias de la planeación, organización, montaje y culminación de un evento. Teniendo la posibilidad de tercerizar áreas de soporte, tecnología, mercadeo, que requieren más tiempo y les hacen perder el foco de su negocio.
             
           .tarjeta.clr-paleYellow.p-4(titulo="La gestión por empresas adjudicatarias")
