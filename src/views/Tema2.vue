@@ -7,7 +7,7 @@
         span 2
       h1 Plan de mejoramiento continuo
 
-    .row.justify-content-around.align-items-center.mt-3
+    .row.justify-content-around.align-items-center.mt-3.mb-5
         .col-lg-10
           .row.justify-content-around.align-items-center.mt-3.banner2-tema-2
             .col-lg-2
@@ -19,51 +19,50 @@
 
               p A continuación, se presentan los pasos para elaborar un plan de mejoramiento continuo.
 
-    separador
 
-    #t_2_1
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 2.1 Elementos para su diseño
+    #t_2_1.mt-5(data-aos="zoom-in-left")
+      h3 Elementos para su diseño
 
     .row  
       p Para tener un adecuado plan de mejoramiento continuo, se debe contar con los siguientes pasos:
 
-    ImagenInfografica.color-secundario
-      template(v-slot:imagen)
-        figure(data-aos="zoom-in-left")
-          img(src='@/assets/curso/temas/tema2/img2.svg', alt='Texto que describa la imagen')
+    .row.justify-content-center
+      .col-md-9
+        ImagenInfografica.color-secundario
+          template(v-slot:imagen)
+            figure(data-aos="zoom-in-left")
+              img(src='@/assets/curso/temas/tema2/img2.svg', alt='Texto que describa la imagen')
 
-      .tarjeta.color-acento-botones.p-3(x="8%" y="70%" numero="1")
-        .h5.mb-2 Definir objetivos
-        p El buen funcionamiento de la compañía también depende de la definición de unos objetivos que plasmen lo que se desea alcanzar; de esta manera, el plan de mejoramiento siempre estará con una buena dirección y enfocado hacia lo que corresponde. 
+          .tarjeta.color-acento-botones.p-3(x="8%" y="70%" numero="1")
+            .h5.mb-2 Definir objetivos
+            p El buen funcionamiento de la compañía también depende de la definición de unos objetivos que plasmen lo que se desea alcanzar; de esta manera, el plan de mejoramiento siempre estará con una buena dirección y enfocado hacia lo que corresponde. 
 
-      .tarjeta.color-acento-botones.p-3(x="20%" y="60%" numero="2")
-        .h5.mb-2 Medir y analizar los resultados
-        p Se deben tener detalles o informes de cada actividad realizada en la organización, con el fin de contar con los datos precisos para poder realizar las evaluaciones correspondientes. 
+          .tarjeta.color-acento-botones.p-3(x="20%" y="60%" numero="2")
+            .h5.mb-2 Medir y analizar los resultados
+            p Se deben tener detalles o informes de cada actividad realizada en la organización, con el fin de contar con los datos precisos para poder realizar las evaluaciones correspondientes. 
 
-      .tarjeta.color-acento-botones.p-3(x="35%" y="40%" numero="3")
-        .h5.mb-2 Comparar resultados entre procesos
-        p En este punto se pueden tomar datos históricos de los procesos de la organización, con la intención de compararlos y encontrar patrones repetidos que puedan dar indicios de errores o mejoras a realizar. 
+          .tarjeta.color-acento-botones.p-3(x="35%" y="40%" numero="3")
+            .h5.mb-2 Comparar resultados entre procesos
+            p En este punto se pueden tomar datos históricos de los procesos de la organización, con la intención de compararlos y encontrar patrones repetidos que puedan dar indicios de errores o mejoras a realizar. 
 
-      .tarjeta.color-acento-botones.p-3(x="45%" y="35%" numero="4")
-        .h5.mb-2 Simplificar procesos
-        p La mejora continua busca no solo resolver lo inadecuado dentro de la compañía, sino también hacer más fácil todos los procesos para disminuir o evitar por completo la pérdida de dinero y de tiempo en la productividad. 
+          .tarjeta.color-acento-botones.p-3(x="45%" y="35%" numero="4")
+            .h5.mb-2 Simplificar procesos
+            p La mejora continua busca no solo resolver lo inadecuado dentro de la compañía, sino también hacer más fácil todos los procesos para disminuir o evitar por completo la pérdida de dinero y de tiempo en la productividad. 
 
-      .tarjeta.color-acento-botones.p-3(x="62%" y="32%" numero="5")
-        .h5.mb-2 Trabajar con todos los colaboradores de la empresa
-        p Es necesario que los empleados se vinculen a este proceso de mejora continua, ya que serán ellos quien definitivamente apliquen los cambios necesarios para que la compañía siga creciendo.
+          .tarjeta.color-acento-botones.p-3(x="62%" y="32%" numero="5")
+            .h5.mb-2 Trabajar con todos los colaboradores de la empresa
+            p Es necesario que los empleados se vinculen a este proceso de mejora continua, ya que serán ellos quien definitivamente apliquen los cambios necesarios para que la compañía siga creciendo.
 
-      .tarjeta.color-acento-botones.p-3(x="77%" y="23%" numero="6")
-        .h5.mb-2 Evaluación periódica del plan de mejora
-        p En el tiempo todo tiene modificaciones; el plan de mejora también. Los resultados de hoy no serán los de mañana, por tanto, se debe afinar a medida que vaya transcurriendo el tiempo.
+          .tarjeta.color-acento-botones.p-3(x="77%" y="23%" numero="6")
+            .h5.mb-2 Evaluación periódica del plan de mejora
+            p En el tiempo todo tiene modificaciones; el plan de mejora también. Los resultados de hoy no serán los de mañana, por tanto, se debe afinar a medida que vaya transcurriendo el tiempo.
 
-      .tarjeta.color-acento-botones.p-3(x="88%" y="5%" numero="7")
-        .h5.mb-2 Análisis y #[i feedback] de resultados
-        p Con este paso la compañía puede identificar cuáles han sido las estrategias exitosas y ajustar las que no, para que las mejoras realizadas en verdad se alineen con los objetivos planteados.
+          .tarjeta.color-acento-botones.p-3(x="88%" y="5%" numero="7")
+            .h5.mb-2 Análisis y #[i feedback] de resultados
+            p Con este paso la compañía puede identificar cuáles han sido las estrategias exitosas y ajustar las que no, para que las mejoras realizadas en verdad se alineen con los objetivos planteados.
 
     .row.mt-5
-      h3 Tipos de mejora
+      h4 Tipos de mejora
 
       p Es importante tener en cuenta que el proceso de mejora puede llevarse a cabo de dos maneras:
 
@@ -73,14 +72,14 @@
           img(src="@/assets/curso/temas/tema2/img3.svg", alt="alt")
 
     .row.mt-5
-      h3 Estrategias de mejoramiento
-      p En una empresa existen estrategias para aplicar los programas de mejora continua. Se presentan a continuación estas estrategias: 
+      h4 Estrategias de mejoramiento
+      p En una empresa existen estrategias para aplicar los programas de mejora continua. A continuación, se presentan estas estrategias:
 
     .row.justify-content-around.align-items-center.mt-3
       .col-lg-10  
         p Estrategias de mejoramiento continuo en la empresa:   
 
-    TabsC.color-primario
+    TabsC.color-primario.tema-2
       .py-3.py-md-4(titulo="Analizar el rendimiento").background-slider-tema2
         .row.justify-content-around.align-items-center.mt-3
           .col-md-6
@@ -115,17 +114,14 @@
               img(src='@/assets/curso/temas/tema2/img7.svg', alt='Texto que describa la imagen')
               
           .col-md-5
-            p.text-white Siempre quisiéramos que los resultados esperados en una organización fueran óptimos y se reflejarán en el ahora; sin embargo, se debe reconocer que los resultados esperados no se pueden controlar, porque siempre se presentan variables que pueden intervenir en última instancia. En lugar de estresarse por ello, se debe centrar en encontrar estrategias o herramientas que ayuden a crecer, ser flexibles y adaptarse a los cambios constantes del entorno. 
+            p.text-white Siempre se desea que los resultados esperados en una organización sean óptimos y se reflejen en el ahora; sin embargo, se debe reconocer que los resultados esperados no se pueden controlar, porque siempre se presentan variables que pueden intervenir en última instancia. En lugar de estresarse por ello, se debe centrar en encontrar estrategias o herramientas que ayuden a crecer, ser flexibles y adaptarse a los cambios constantes del entorno. 
 
     .row.mt-5
-      h3 Métodos de mejora continua
-      p Existen diferentes métodos para aplicar la mejora continua, a continuación, se relacionan algunos de ellos:
+      h4 Métodos de mejora continua
+      p.mb-5 Existen diferentes métodos para aplicar la mejora continua, a continuación, se relacionan algunos de ellos:
 
-    .row.justify-content-around.align-items-center.mt-3
-      .col-lg-10  
-        p Método de las 5S: se basa en 5 principios que provienen de la cultura japonesa.
-
-        p Es una técnica para la gestión laboral proveniente de la cultura empresarial japonesa y basada en 5 principios. El objetivo es ordenar y dar sentido a las funciones. Los principios son:
+      p #[b Método de las 5S:] se basa en 5 principios que provienen de la cultura japonesa, cuyo objetivo es ordenar y dar sentido a las funciones asociadas a la gestión laboral. 
+      p Los principios son:
 
     .row.justify-content-around.align-items-center.mt-3
       .col-lg-8  
@@ -151,21 +147,20 @@
 
                 .tarjeta.color-acento-botones.p-4(x="50%" y="100%" numero="+" style='border-radius: 10px; background-color: #5038A1')
                   h5.mb-3.text-center #[i Seiso] (limpieza)
-                  p.mb-0.text-center Se evita acumular objetos innecesarios que generen distracciones en el trabajo.
+                  p.mb-0.text-center Se evita acumular objetos innecesarios que generan distracciones en el trabajo.
 
                 .tarjeta.color-acento-botones.p-4(x="10%" y="75%" numero="+" style='border-radius: 10px; background-color: #5038A1')
                   h5.mb-3.text-center #[i Seiketsu] (bienestar personal)
                   p.mb-0.text-center Nos permite evidenciar incoherencias en el lugar de trabajo y en los procesos. El objetivo es estandarizar los procesos de la manera más óptima posible.
 
-    .row.mt-3
-      p #[b #[i Lean manufacturing:]]
+    .row.justify-content-center.mt-3.mb-5
+      .col-md-10 
+        .cajonAmarillo.bgr-tarjeta-tema2.p-4.mt-3
+          p(data-aos="fade-down") #[b #[i Lean manufacturing]] 
+          p.mb-0 Su fin también es identificar y eliminar lo que no sirva dentro de una compañía, como procesos, documentos, actividades que no agregan valor, etc. El objetivo de este método va en contraposición al de la producción en masa, ya que con esta se eliminan la mayor cantidad de desperdicios posibles. 
 
-      p Su fin también es identificar y eliminar lo que no sirva dentro de una compañía, como procesos, documentos, actividades que no agregan valor, etc. El objetivo de este método va en contraposición al de la producción en masa, ya que con #[i lean manufacturing] se eliminan la mayor cantidad de desperdicios posibles.
 
-    .row.justify-content-around.align-items-center.mt-3
-      .col-lg-10
-        p Se presenta a continuación el Ciclo PDCA o Rueda #[i Deming], la cual se centra en la calidad bajo una metodología cíclica que busca la mejora en dicha área. Cada letra tiene un significado y se representa de la siguiente manera:
-
+    p Se presenta a continuación el Ciclo PDCA o Rueda #[i Deming], la cual se centra en la calidad bajo una metodología cíclica que busca la mejora en dicha área. Cada letra tiene un significado y se representa de la siguiente manera:
 
     .row.justify-content-around.align-items-center.mt-3
       .col-lg-9.position-relative
@@ -179,7 +174,7 @@
                 img(src="@/assets/curso/temas/tema2/img10.svg", alt="alt").img100
             .col
               h5 P - #[i Plan]
-              p Se plantean los problemas que se deben resolver y los recursos que hay disponibles para ello. 
+              p Se definen las situaciones que se deben resolver y los recursos que hay disponibles para ello. 
 
         .crd.crd--avatarHorizontal.py-4
           .row.align-items-center
@@ -208,11 +203,14 @@
               h5 A - #[i Act]
               p En español, actuar. En este punto se corrige lo que se haya encontrado con el análisis de datos del punto anterior. También se deben reconocer las nuevas mejoras propicias por hacer. 
 
-    .row.mt-5
-      p #[b Kanban]
+    
+    .row.justify-content-center.mt-3.mb-4
+      .col-md-10 
+        .cajonAmarillo.bgr-tarjeta-tema2.p-4.mt-3
+          p(data-aos="fade-down") #[b Kanban]
+          p.mb-0 Esta técnica se basa en la demanda de los clientes. Este método busca agilizar las funciones de trabajo dividiéndolas en fases. Se le debe indicar al equipo de trabajo las acciones que deben desarrollar en términos de tarea, función y observaciones. 
 
-      p Esta técnica se basa en la demanda de los clientes. Este método busca agilizar las funciones de trabajo dividiéndolas en fases. Se le debe indicar al equipo de trabajo las acciones que deben desarrollar en términos de tarea, función y observaciones.
-
+    .row
       p Kanban se reconoce por las siguientes características:
 
       ol.lista-ol--cuadro
@@ -234,62 +232,74 @@
             | Mejora continua empresa.
 
 
-    separador
+    
 
-    #t_2_2
+    #t_2_2.mt-5(data-aos="zoom-in-left").mb-4
+      h3 Sistema de aseguramiento de calidad ISO 9000, 9001 y 9004
 
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 2.2 Sistema de aseguramiento de calidad ISO 9000, 9001 y 9004
+    p En la actualidad existen una serie de normas estandarizadas que se presentan de la siguiente manera:
+    p.mb-0 #[b ISO 9000: 2000.] Sistemas de gestión de la calidad. Fundamentos y vocabulario.
+    p.mb-0 #[b ISO 9001: 2000.] Sistemas de gestión de la calidad. Requisitos.
+    p.mb-4 #[b ISO 9004: 2000.] Sistemas de gestión de la calidad. Directrices para la mejora del desempeño.
 
-    .row.justify-content-around.align-items-center
-      .col-lg-12
-        .cajonAmarillo.bgr-tarjeta-tema1.p-4.mt-3
-          p En la actualidad existen una serie de normas estandarizadas que se presentan de la siguiente manera:
-          p ISO 9000: 2000. Sistemas de gestión de la calidad. Fundamentos y vocabulario.
-          p ISO 9001: 2000. Sistemas de gestión de la calidad. Requisitos.
-          p ISO 9004: 2000. Sistemas de gestión de la calidad. Directrices para la mejora del desempeño.
+    p.mb-4 En este orden de ideas, los sistemas de aseguramiento de calidad ISO 9000, 9001 y 9004 presentan las siguientes características:
 
-    .row.justify-content-around.align-items-center.mt-3
-      .col-lg-8
-        figure(data-aos="zoom-in-left")
-          img(src="@/assets/curso/temas/tema2/img14.svg", alt="alt")
-
-        p.mt-3 En este orden de ideas, los sistemas de aseguramiento de calidad ISO 9000, 9001 y 9004 presentan las siguientes características:
-
-    .tarjeta.tarjeta--azul.p-4.banner1-tema-1
+    .tarjeta.tarjeta--azul.p-4.banner1-tema-1.mb-5
       SlyderA(tipo="b")
-        .row.p-2
+        .row.p-2.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Las normas ISO son un conjunto de normas orientadas a ordenar la gestión de una empresa en sus distintos ámbitos. Aunque su implementación es de carácter voluntario, han ganado gran reconocimiento y aceptación internacional debido a la importancia que ha tomado la figura y la opinión de los consumidores. Las normas ISO son establecidas por el Organismo Internacional de Estandarización (ISO), y se componen de estándares y guías relacionados con sistemas y herramientas específicas de gestión aplicables en cualquier tipo de organización (ISO, 2015).
-
-          .col-md-6
+          .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema2/img15.svg', alt='Texto que describa la imagen')
 
-        .row.p-2
+        .row.p-2.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            p En los últimos tiempos han tenido una gran difusión en el mundo empresarial como una metodología para obtener buenos resultados y satisfacción en los procesos con los clientes, los trabajadores, los accionistas y la sociedad en general, abarcando el término de calidad total, que a su vez es un compromiso con toda la compañía en la mejora continua. Cuando esta calidad se desea implementar como un sistema de gestión, se aplica a un proceso largo que implica un cambio en la forma de dirigir y gestionar los procesos internos de la compañía, que por supuesto, va de cara al cliente. 
-
-          .col-md-6
+            p En los últimos tiempos han tenido una gran difusión en el mundo empresarial, como una metodología para obtener buenos resultados y satisfacción en los procesos con los clientes, los trabajadores, los accionistas y la sociedad en general, abarcando el término de calidad total, que a su vez es un compromiso con toda la compañía en la mejora continua. Cuando esta calidad se desea implementar como un sistema de gestión, se aplica a un proceso largo que implica un cambio en la forma de dirigir y gestionar los procesos internos de la compañía, que por supuesto, va de cara al cliente. 
+          .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema2/img16.svg', alt='Texto que describa la imagen')
                      
-        .row.p-2
+        .row.p-2.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            p Al interior de la organización, con los empleados, se logra crear una cultura participativa que permita la creatividad y la innovación. Se potencian los grupos multidisciplinares y la formación continua, se respeta al medio ambiente desde la labor de la compañía y se potencia la seguridad en el trabajo. Para los accionistas también hay beneficios, como la rentabilidad en el mediano y largo plazo, además se evitan daños innecesarios en los inventarios, equipos, exceso de informes, reuniones y tareas no productivas. 
-
-          .col-md-6
+            p Al interior de la organización se obtienen diferentes logros agrupados de la siguiente forma: 
+            p Empleados:
+            ul.lista-ul--color.tema-2
+              li.mb-0
+                i.fas.fa-circle
+                | Se logra crear una cultura participativa que permite la creatividad y la innovación.  
+              li.mb-0 
+                i.fas.fa-circle
+                | Se potencian los grupos multidisciplinares y la formación continua. 
+              li.mb-0 
+                i.fas.fa-circle
+                | Se respeta al medio ambiente desde la labor de la compañía.    
+              li 
+                i.fas.fa-circle
+                | Se potencia la seguridad en el trabajo.   
+            p Accionistas: 
+            ul.lista-ul--color.tema-2
+              li.mb-0 
+                i.fas.fa-circle
+                | Aumento en la rentabilidad en el mediano y largo plazo. 
+              li.mb-0 
+                i.fas.fa-circle
+                | Se evitan daños innecesarios en los inventarios y equipos.
+              li 
+                i.fas.fa-circle
+                | Se reducen informes, reuniones y tareas no productivas.     
+          .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema2/img17.svg', alt='Texto que describa la imagen')
                   
-        .row.p-2
+        .row.p-2.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Finalmente, con respecto a los clientes y la aplicación de las normas, se les añade valor haciendo los procesos de manera correcta y sin rectificaciones, aceptando que el cliente requiere de una mejora continua y que cada uno tiene su propia definición de calidad. 
-
-          .col-md-6
+          .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema2/img18.svg', alt='Texto que describa la imagen')
-                  
+
+    p Aprendiz, ha finalizado de manera satisfactoria el estudio de todos los temas del componente formativo, lo invitamos a ver el menú donde encontrará, la síntesis, la actividad didáctica, entre otros.              
 
 </template>
 

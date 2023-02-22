@@ -36,20 +36,7 @@ export default {
         numero: '1',
         titulo: 'Satisfacción del cliente',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Indicadores de satisfacción',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Evaluación de servicios tercerizados',
-            hash: 't_1_2',
-          },
-        ],
+        subMenu: [],
       },
 
       {
@@ -58,20 +45,7 @@ export default {
         numero: '2',
         titulo: 'Plan de mejoramiento continuo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Elementos para su diseño',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Sistema de aseguramiento de calidad ISO 9000, 9001 y 9004',
-            hash: 't_2_2',
-          },
-        ],
+        subMenu: [],
       },
     ],
     subMenu: [
@@ -207,7 +181,7 @@ export default {
     },
     {
       referencia:
-        'Cobo (2017). La tercerización como herramienta de Gestión empresarial. [Tesis de maestría]',
+        'Cobo (2017). <em>La tercerización como herramienta de Gestión empresarial</em>. [Tesis de maestría]',
       link: 'https://core.ac.uk/download/pdf/153490117.pdf',
     },
     {

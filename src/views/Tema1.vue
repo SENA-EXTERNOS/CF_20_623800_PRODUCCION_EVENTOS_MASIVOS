@@ -8,9 +8,9 @@
       h1 Satisfacción del cliente
 
     .row
-      p La satisfacción de un consumidor es definida como un sentimiento o una sensación de placer que se genera en este luego de haber adquirido un producto o un servicio. En la organización de eventos como tal, esta satisfacción está ligada a la percepción que tiene un cliente con respecto a los beneficios que recibe en su evento, aplicándose el término no solo a quien contrata al organizador, sino también al asistente al evento. La satisfacción es una respuesta emocional o un resultado psicológico que proviene de la experiencia obtenida con la compra, la cual genera una comparación automática de lo que el cliente esperaba frente al resultado final.
+      p La satisfacción de un consumidor es definida como un sentimiento o una sensación de placer que se genera, luego de haber adquirido un producto o un servicio. En la organización de eventos como tal, esta satisfacción está ligada a la percepción que tiene un cliente con respecto a los beneficios que recibe en su evento, aplicándose el término no solo a quien contrata al organizador, sino también, a quien asiste al evento. La satisfacción es una respuesta emocional o un resultado psicológico que proviene de la experiencia obtenida con la compra, la cual genera una comparación automática de lo que el cliente esperaba frente al resultado final.
 
-      p Un cliente satisfecho se convierte en la mejor voz a voz de la compañía, ya que con sus referencias puede atraer a otras personas a la organización, incrementando de esta manera las ventas, y por supuesto, influyendo de manera positiva en la imagen de la empresa. Le presentamos algunos de esos elementos de satisfacción.
+      p Un cliente satisfecho se convierte en la mejor voz a voz de la compañía, ya que con sus referencias puede atraer a otras personas a la organización, incrementando de esta manera las ventas, y por supuesto, influyendo de manera positiva en la imagen de la empresa. A continuación, presentamos algunos de esos elementos de satisfacción.
       
     .row.justify-content-around.align-items-center
       .col-lg-12
@@ -65,19 +65,17 @@
         p #[b Complacencia:] es cuando los beneficios del servicio superan las expectativas del usuario.
 
 
-    .row.justify-content-around.align-items-center.mt-3
+    .row.justify-content-around.align-items-center.mt-3.mb-5
       .col-lg-12
         .cajonAmarillo.bgr-tarjeta-tema1.p-4.mt-5
           p(data-aos="fade-down") Continuando en este orden de ideas, según el nivel de satisfacción que tenga un cliente se puede inferir su grado de lealtad frente a una compañía, sin embargo, esto no significa que un cliente satisfecho ‘siempre’ le será leal a la marca, ya que pueden aparecer otros proveedores con una oferta que sobrepase la anterior. Por ello, el autor menciona que la complacencia es el nivel más alto al que le puede apuntar una compañía, pues genera una afinidad emocional que sobrepasa a la simple preferencia racional, lo cual se logra cuando la compañía simplemente promete lo que puede dar, pero luego da más de lo que prometió inicialmente.
     
           p(data-aos="fade-down") Con lo anterior, se puede decir que la satisfacción señala que proviene de la calidad e impacta puntualmente a la fidelidad en la recompra.
 
-    separador
+    
 
-    #t_1_1
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 1.1 Indicadores de satisfacción
+    #t_1_1.mt-5(data-aos="zoom-in-left")
+      h3 Indicadores de satisfacción
 
     .row
       p Medir la satisfacción del cliente es primordial si lo que desea la organización es mejorar la experiencia y los procesos de cara al usuario. En el siguiente esquema se evidencia cada uno de los indicadores de satisfacción que se deben tener en cuenta según HubSpot (2022):
@@ -88,18 +86,17 @@
           img(src='@/assets/curso/temas/tema1/img4.png', alt='Texto que describa la imagen')
 
     .row.mt-5
-      h3 Tipos de indicadores
+      h4 Tipos de indicadores
 
       figure.mt-3(data-aos="zoom-in-left")
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)            
 
     .row.mt-5
-      h3 Criterios de medición
+      h4 Criterios de medición
 
       p La medición de la satisfacción del cliente debe ser un proceso integrado a la organización que se realice de manera periódica, a fin de realizar los cambios pertinentes a tiempo. Para conocer la información de los clientes, es posible realizar evaluaciones de manera directa con ellos, a fin de conocer su percepción, o de manera indirecta, cuando la empresa ya cuenta con datos existentes frente a tal objetivo. Sea cual sea el caso, se deben tener presentes algunos criterios de medición, los cuales se mencionan a continuación.
-
-      p Como se mencionó anteriormente, los criterios de medición son los siguientes:   
+      p.mb-4 Los criterios de medición son los siguientes:  
 
     SlyderF(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-botones.p-4.heigth-tarjetas
@@ -145,7 +142,7 @@
         p.text-center Se usan para evaluar lo que otros competidores realizan a fin de tomar inspiración o realizar mejoras en los productos o servicios de la organización. 
 
     .row.mt-5
-      h3 Frecuencia de medición   
+      h4 Frecuencia de medición   
 
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
@@ -157,87 +154,75 @@
     .row.mt-5
       p Teniendo en cuenta lo mencionado anteriormente, los datos de satisfacción de los usuarios se deben recolectar de manera permanente, y se hace necesario tener en cuenta una frecuencia de medición.
 
-    .row.justify-content-around.align-items-center
+    .row.justify-content-around.align-items-center.mb-5
       .col-lg-12
         .cajonAmarillo.bgr-tarjeta-tema2.p-4.mt-3
           p(data-aos="fade-down") Con cada venta se debería realizar la medición de satisfacción, también se puede determinar un intervalo fijo como cada mes, por ejemplo, donde se aplique una técnica puntual, bien sea con encuesta, paneles, grupos focales, entre otros.
 
-    separador
+    
 
-    #t_1_2
-
-    .titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-left")
-      h2 1.2 Evaluación de servicios tercerizados
+    #t_1_2.mt-5(data-aos="zoom-in-left")
+      h3 Evaluación de servicios tercerizados
 
     .row
       p Los clientes en la actualidad desean buenos productos, servicios rápidos y un precio cada vez más bajo. Para responder a ello las empresas deben enfocarse en sus competencias centrales y permitir que proveedores externos realicen otras actividades o presten sus servicios en cuanto a mercadeo, investigación y desarrollo, contabilidad, etc., con el fin de que esta pueda dedicarse a su labor principal: desarrollar nuevos proyectos y gestionar sus operaciones de manera más efectiva. 
 
-      p A continuación, se detallan características sobre la tercerización de servicios.
-
-      p #[b Características sobre la tercerización de servicios]
+      p A continuación, se detallan características sobre la tercerización de servicios:
 
     .tarjeta.tarjeta--azul.p-4.banner1-tema-1
       SlyderA(tipo="b")
-        .row
+        .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p La tercerización de servicios es una práctica por la cual una empresa contrata a otra para desarrollar ciertas labores y reducir costos generales. Se puede aplicar a “procesos internos de la compañía como funciones de contabilidad o servicios de #[i contact centers] y procesos externos como recursos humanos, #[i marketing], documentación, logística o seguimiento comercial, para lograr control, estabilidad, trazabilidad y transparencia en ellos.” (Colsubsidio, s.f.).
-
-          .col-md-6
+          .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema1/img11.svg', alt='Texto que describa la imagen')
             
 
-        .row
+        .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Existe una diferencia importante entre la tercerización y la simple contratación de proveedores para realizar alguna labor. Ámbito jurídico (2018), define la tercerización como:
-
-            p "aquella mediante la cual una empresa confía a otra el suministro de bienes o servicios, y esta última se compromete a llevar a cabo el trabajo por su cuenta y riesgo, y con sus propios recursos financieros, materiales y humanos, en la que prima la autonomía del tercero en cuanto al manejo de su propia empresa en aspectos administrativos, financieros y de recurso humano, con independencia de quien lo contrate, porque de lo que se trata es de producir un resultado final". (párr. 3)
-
-          .col-md-6
+            p “Aquella mediante la cual una empresa confía a otra el suministro de bienes o servicios, y esta última se compromete a llevar a cabo el trabajo por su cuenta y riesgo, y con sus propios recursos financieros, materiales y humanos, en la que prima la autonomía del tercero en cuanto al manejo de su propia empresa en aspectos administrativos, financieros y de recurso humano, con independencia de quien lo contrate, porque de lo que se trata es de producir un resultado final”. (párr. 3)
+          .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema1/img12.svg', alt='Texto que describa la imagen')
 
-        .row
+        .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            p Este concepto se diferencia de la contratación de mano de obra o recurso humano, ya que tiene un contenido y alcance diferente. Ámbito jurídico (2018), mencionando a la Organización Internacional del Trabajo -OIT-, específica que 
+            p Este concepto se diferencia de la contratación de mano de obra o recurso humano, ya que tiene un contenido y alcance diferente. Ámbito jurídico (2018), mencionando a la Organización Internacional del Trabajo -OIT-, específica que:
             
-            p "el objetivo único o predominante es el suministro de mano de obra (y no de bienes y servicios) por parte del subcontratista a la empresa usuaria, la cual puede pedir a los interesados que trabajen en sus locales junto con sus propios asalariados o que lo hagan en otra parte, si la organización de la producción así lo requiere". (párr. 4)
+            p “El objetivo único o predominante es el suministro de mano de obra (y no de bienes y servicios) por parte del subcontratista a la empresa usuaria, la cual puede pedir a los interesados que trabajen en sus locales junto con sus propios asalariados o que lo hagan en otra parte, si la organización de la producción así lo requiere”. (párr. 4)
 
-            P En resumen, la legislación colombiana distingue los dos términos, haciendo claridad en que la “tercerización, aplica a la de bienes y de servicios como resultado final, y la intermediación laboral, se refiere al envío de trabajadores en misión a terceros para colaborarles temporalmente en sus actividades misionales permanentes” (Ámbito jurídico, 2018).
-
-          .col-md-6
+            P En resumen, la legislación colombiana distingue los dos términos, haciendo claridad en que la “tercerización, aplica para los bienes y servicios como resultado final, y la intermediación laboral, se refiere al envío de trabajadores en misión a terceros para colaborarles temporalmente en sus actividades misionales permanentes” (Ámbito jurídico, 2018).
+          .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema1/img13.svg', alt='Texto que describa la imagen')
 
-        .row
+        .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p Ahora, este proceso de tercerización puede darse dentro del mismo país, a lo cual se le conoce como #[i inshore], o también se pueden hacer contrataciones con empresas extranjeras para llevar a cabo las diferentes labores, a esto se le conoce como #[i offshore].
-
-            p Sea cual sea la modalidad, tercerizar algunos servicios puede ayudarle a las organizaciones a fortalecer sus actividades más productivas, como, por ejemplo, abrir nuevos mercados o crear una nueva línea de productos o servicios; agilizando de esta manera sus procesos y disminuyendo las cargas en otras labores que pueden ser desarrolladas por empresas externas, y que de hecho saldrían más económicas, que tener el tiempo ocupado en asuntos menos productivos. 
-
-          .col-md-6
+            p Sea cual sea la modalidad, tercerizar algunos servicios puede ayudar a las organizaciones a fortalecer sus actividades más productivas. Por ejemplo, abrir nuevos mercados o crear una nueva línea de productos o servicios; agilizando de esta manera sus procesos y disminuyendo las cargas en otras labores, que pueden ser desarrolladas por empresas externas, y que de hecho saldrían más económicas, que tener el tiempo ocupado en asuntos menos productivos. 
+          .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema1/img14.svg', alt='Texto que describa la imagen')
 
-        .row
+        .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p A pesar de todas estas ventajas, también es importante reconocer que la tercerización acarrea ciertos riesgos, como la pérdida en el control de un servicio, calidad inferior a la acordada inicialmente, conflictos internos, dependencia del proveedor, riesgo de pérdida del conocimiento interno y de no alcanzar los objetivos para los que se contrató al proveedor, entre otros (Pirani, 2021). Por ello, es necesaria la evaluación y monitoreo continuo dentro del cual se pueden revisar temas como la gestión de la confianza e integridad de la información brindada al proveedor, su situación financiera, reputación en el mercado, análisis en los cambios de estrategia del proveedor, cumplimiento de sus requisitos legales, capacidad de respuesta y la claridad existente con respecto a la propiedad intelectual, etc. (Pirani, 2021). Todo esto con el fin de tener buenas relaciones entre la parte contratante y el contratado, y asegurarse de obtener la mejor calidad en la labor tercerizada. 
-            
-          .col-md-6
+          .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema1/img15.svg', alt='Texto que describa la imagen')
 
-        .row
+        .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             p En caso de que el proveedor incumpla las pautas acordadas en el contrato, o que las expectativas no se cumplan dando lugar a la terminación de este, se debe acudir a un plan B para retornar las actividades o procesos tercerizados al personal de la organización, en caso de no contar con una empresa alternativa.
-            
-          .col-md-6
+          .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema1/img16.svg', alt='Texto que describa la imagen')
 
 
     .row.mt-5
-      h3 Responsabilidad contractual
+      h4 Responsabilidad contractual
 
       p Como se ha visto anteriormente, cuando una organización decide tercerizar alguno de sus servicios con otra empresa, llamada subcontratista, esta tendrá la obligación de contratar a su personal para poder realizar las labores pactadas. En esta relación se generan unas obligaciones laborales por parte y parte, dentro de las cuales se destaca el salario, las prestaciones sociales, la seguridad social y el pago de indemnizaciones por incumplimientos contractuales.
 
@@ -250,7 +235,7 @@
       .col-lg-6
         .bloque-texto-f.color-secundario.p-4.mt-3 
           .bloque-texto-f__texto
-            p La responsabilidad contractual tiene su origen en el incumplimiento de las obligaciones suscritas entre las partes, dado que existe una responsabilidad contractual que nace de no haberse cumplido un acuerdo de voluntades plasmadas, creándose una obligación de reparar el daño existiendo una obligación por indemnizar cuando se demuestre la culpa (Conceptos jurídicos, s.f.).
+            p La responsabilidad contractual tiene su origen en el incumplimiento de las obligaciones suscritas entre las partes, dado que existe una responsabilidad contractual que nace de no haberse cumplido un acuerdo de voluntades plasmadas, creándose una obligación de reparar el daño, existiendo una obligación por indemnizar cuando se demuestre la culpa. (Conceptos jurídicos, s.f.).
 
     .row.mt-5
       p Para que esta responsabilidad contractual prospere, se deben demostrar algunos elementos, como los siguientes:
@@ -283,7 +268,7 @@
 
             
     .row.mt-3
-      h3 Modelos de gestión
+      h4 Modelos de gestión
 
     .row.justify-content-around.align-items-center.mt-3
       .col-lg-12
@@ -315,7 +300,7 @@
             p En estos eventos se cede la gestión a una empresa que se encarga de toda la organización. En España, por ejemplo, la Vuelta Ciclista a España tiene este tipo de gestión.
 
     .row.mt-5
-      p #[b Indicadores y métricas de calidad]
+      h4 Indicadores y métricas de calidad
 
       p Los indicadores de calidad son herramientas de medición usadas para determinar el nivel de calidad en los productos, servicios y procesos de una empresa. Son de carácter cuantificable y ayudan a controlar y mejorar los procesos, brindando resultados que permitan realizar ajustes óptimos a fin de garantizar la satisfacción del cliente. Los indicadores deben ser fáciles de aplicar y deben proporcionar una información clara y aportante para dar cumplimiento a los objetivos que se buscan alcanzar; adicional a ello, deben ser entendibles para ser graficados o plasmados en diagramas, tablas o cuadros conceptuales.
 
