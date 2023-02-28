@@ -92,7 +92,7 @@ export default {
     {
       tema: 'Plan de mejora',
       referencia:
-        'Mancilla Flantermesky (2009). <em>Diseño y documentación de un plan de mejora del proceso “prestación del servicio ferial (evento)” del centro de ferias, exposiciones y convenciones de Bucaramanga, Cenfer s.a.</em> [Trabajo de Grado].',
+        'Mancilla Flantermesky, L (2009). <em>Diseño y documentación de un plan de mejora del proceso “prestación del servicio ferial (evento)” del centro de ferias, exposiciones y convenciones de Bucaramanga, Cenfer S.A.</em> [Trabajo de pregrado, Universidad Pontificia Bolivariana]. Tesis y disertaciones académicas.',
       tipo: 'Trabajo de grado',
       link:
         'https://repository.upb.edu.co/bitstream/handle/20.500.11912/634/digital_18362.pdf?sequence=1&isAllowed=y',
@@ -100,22 +100,22 @@ export default {
     {
       tema: 'Evaluación del servicio',
       referencia:
-        'Calabuig Moreno; Mundina Gómez; Crespo Hervàs (2019). <em>Eventqual: una medida de la calidad percibida por los espectadores de eventos deportivos Retos</em>. Nuevas Tendencias en Educación Física, Deporte y Recreación, núm. 18, pp. 66-70.',
+        'Calabuig Moreno, F. et al. (2010). Eventqual: una medida de la calidad percibida por los espectadores de eventos deportivos. <em>Retos. Nuevas Tendencias en Educación Física, Deporte y Recreación, (18).</em> ',
       tipo: 'Artículo de investigación',
       link: 'https://www.redalyc.org/pdf/3457/345732284013.pdf',
     },
     {
       tema: 'Satisfacción del cliente',
       referencia:
-        'Contreras Contreras y Fárez Pucha (2015). <em>Estudio de satisfacción del cliente en el evento festival Fundación de Cuenca 15K 2013 Empresa JP Sport Marketing</em>. Red de Repositorios Latinoamericanos.',
-      tipo: 'Artículo de investigación',
+        'Contreras Contreras, M. y Fárez Pucha, C. (2013). <em>Estudio de satisfacción del cliente en el evento festival Fundación de Cuenca 15K 2013 Empresa JP Sport Marketing.</em> [Tesis de pregrado, Universidad de Cuenca]. Tesis de Pregrado.',
+      tipo: 'Tesis de grado',
       link: 'http://repositorioslatinoamericanos.uchile.cl/handle/2250/1112278',
     },
 
     {
       tema: 'Norma ISO 9001 en una empresa de eventos',
       referencia:
-        'Sandoval Fonseca (2017). <em>Manual de Calidad para Alex Castañeda eventos & refrigerios, basado en la Norma ISO 9001:2015</em>. [Tesis de grado]. ',
+        'Sandoval Fonseca, C. (2017). <em>Manual de Calidad para Alex Castañeda eventos & refrigerios, basado en la Norma ISO 9001:2015.</em> [Tesis de pregrado, Universidad Militar Nueva Granada]. Archivo digital.',
       tipo: 'Artículo de investigación',
       link: 'https://core.ac.uk/download/pdf/151074287.pdf',
     },
@@ -175,36 +175,29 @@ export default {
   referencias: [
     {
       referencia:
-        'Ámbito Jurídico (2018). <em>Tercerización e intermediación laboral: ¿en qué consisten?, ¿cómo se diferencian?</em>',
+        'Pérez, M. (2018, 2 de agosto). <em>Tercerización e intermediación laboral: ¿en qué consisten?, ¿cómo se diferencian?</em> Legis. Ámbito jurídico. ',
       link:
         'https://www.ambitojuridico.com/noticias/analisis/constitucional-y-derechos-humanos/tercerizacion-e-intermediacion-laboral-en-que#_ftn2',
     },
     {
       referencia:
-        'Cobo (2017). <em>La tercerización como herramienta de Gestión empresarial</em>. [Tesis de maestría]',
+        'Cobo, J. (2017). <em>La tercerización como herramienta de Gestión empresarial.</em> [Tesis de maestría, Universidad EAFIT]. Archivo digital. ',
       link: 'https://core.ac.uk/download/pdf/153490117.pdf',
     },
     {
       referencia:
-        'Colsubsidio (s.f.). <em>Tipos de tercerización para la empresa.</em>',
-      link:
-        'https://xposible.com/infografia/tipos-de-tercerizacion-para-las-empresas/',
-    },
-    {
-      referencia:
-        'HubSpot (2022). <em>Satisfacción del cliente: qué es, sus elementos y cómo medirla.</em>',
+        'Hammond, M. (s.f). <em>Satisfacción del cliente: qué es, sus elementos y cómo medirla.</em> HubSpot.',
       link: 'https://blog.hubspot.es/service/satisfaccion-del-cliente',
     },
     {
       referencia:
-        'Pirani (2021). <em>Riesgos que se pueden presentar en la tercerización de servicios.</em>',
+        'Meza, D. (2022, 11 de noviembre). <em>Riesgos que se pueden presentar en la tercerización de servicios.</em> Piranirisk',
       link:
         'https://www.piranirisk.com/es/blog/riesgos-en-la-tercerizacion-de-servicios',
     },
     {
       referencia:
-        'Thompson, I. (2005). <em>La satisfacción del cliente</em>. Rev Med (Bolivia), pp. 6-31.',
-      link: '',
+        'Thompson, I. (2005). <em>La satisfacción del cliente.</em> Rev Med (Bolivia), pp. 6-31.',
     },
   ],
   creditos: {

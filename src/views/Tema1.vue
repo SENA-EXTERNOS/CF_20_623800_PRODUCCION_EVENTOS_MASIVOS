@@ -78,7 +78,7 @@
       h3 Indicadores de satisfacción
 
     .row
-      p Medir la satisfacción del cliente es primordial si lo que desea la organización es mejorar la experiencia y los procesos de cara al usuario. En el siguiente esquema se evidencia cada uno de los indicadores de satisfacción que se deben tener en cuenta según HubSpot (2022):
+      p Medir la satisfacción del cliente es primordial si lo que desea la organización es mejorar la experiencia y los procesos de cara al usuario. En el siguiente esquema se evidencia cada uno de los indicadores de satisfacción que se deben tener en cuenta según Hammond (s.f):
 
     .row.justify-content-around.align-items-center
       .col-lg-12
@@ -87,6 +87,8 @@
 
     .row.mt-5
       h4 Tipos de indicadores
+
+      p Ahora bien, encontramos también aquellos indicadores enfocados exclusivamente a dar luces sobre cómo darle al cliente lo que espera o desea. A continuación, lo invitamos a ver el siguiente video para profundizar en este tema.
 
       figure.mt-3(data-aos="zoom-in-left")
           .video
@@ -173,7 +175,7 @@
       SlyderA(tipo="b")
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            p La tercerización de servicios es una práctica por la cual una empresa contrata a otra para desarrollar ciertas labores y reducir costos generales. Se puede aplicar a “procesos internos de la compañía como funciones de contabilidad o servicios de #[i contact centers] y procesos externos como recursos humanos, #[i marketing], documentación, logística o seguimiento comercial, para lograr control, estabilidad, trazabilidad y transparencia en ellos.” (Colsubsidio, s.f.).
+            p La tercerización de servicios es una práctica por la cual una empresa contrata a otra para desarrollar ciertas labores y reducir costos generales. Se puede aplicar a procesos internos de la compañía como funciones de contabilidad o servicios de #[i contact centers] y procesos externos como recursos humanos, #[i marketing], documentación, logística o seguimiento comercial, para lograr control, estabilidad, trazabilidad y transparencia en ellos.
           .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema1/img11.svg', alt='Texto que describa la imagen')
@@ -181,19 +183,19 @@
 
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            p Existe una diferencia importante entre la tercerización y la simple contratación de proveedores para realizar alguna labor. Ámbito jurídico (2018), define la tercerización como:
-            p “Aquella mediante la cual una empresa confía a otra el suministro de bienes o servicios, y esta última se compromete a llevar a cabo el trabajo por su cuenta y riesgo, y con sus propios recursos financieros, materiales y humanos, en la que prima la autonomía del tercero en cuanto al manejo de su propia empresa en aspectos administrativos, financieros y de recurso humano, con independencia de quien lo contrate, porque de lo que se trata es de producir un resultado final”. (párr. 3)
+            p Existe una diferencia importante entre la tercerización y la simple contratación de proveedores para realizar alguna labor. Pérez (2018), define la tercerización como:
+            p “Aquella mediante la cual una empresa confía a otra el suministro de bienes o servicios, y esta última se compromete a llevar a cabo el trabajo por su cuenta y riesgo, y con sus propios recursos financieros, materiales y humanos, en la que prima la autonomía del tercero en cuanto al manejo de su propia empresa en aspectos administrativos, financieros y de recurso humano, con independencia de quien lo contrate, porque de lo que se trata es de producir un resultado final” (párr. 3).
           .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema1/img12.svg', alt='Texto que describa la imagen')
 
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            p Este concepto se diferencia de la contratación de mano de obra o recurso humano, ya que tiene un contenido y alcance diferente. Ámbito jurídico (2018), mencionando a la Organización Internacional del Trabajo -OIT-, específica que:
+            p Este concepto se diferencia de la contratación de mano de obra o recurso humano, ya que tiene un contenido y alcance diferente. Pérez (2018), mencionando a la Organización Internacional del Trabajo -OIT-, específica que:
             
-            p “El objetivo único o predominante es el suministro de mano de obra (y no de bienes y servicios) por parte del subcontratista a la empresa usuaria, la cual puede pedir a los interesados que trabajen en sus locales junto con sus propios asalariados o que lo hagan en otra parte, si la organización de la producción así lo requiere”. (párr. 4)
+            p “El objetivo único o predominante es el suministro de mano de obra (y no de bienes y servicios) por parte del subcontratista a la empresa usuaria, la cual puede pedir a los interesados que trabajen en sus locales junto con sus propios asalariados o que lo hagan en otra parte, si la organización de la producción así lo requiere” (párr. 4).
 
-            P En resumen, la legislación colombiana distingue los dos términos, haciendo claridad en que la “tercerización, aplica para los bienes y servicios como resultado final, y la intermediación laboral, se refiere al envío de trabajadores en misión a terceros para colaborarles temporalmente en sus actividades misionales permanentes” (Ámbito jurídico, 2018).
+            P En resumen, la legislación colombiana distingue los dos términos, haciendo claridad en que la “tercerización, aplica para los bienes y servicios como resultado final, y la intermediación laboral, se refiere al envío de trabajadores en misión a terceros para colaborarles temporalmente en sus actividades misionales permanentes” (Pérez, 2018).
           .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema1/img13.svg', alt='Texto que describa la imagen')
@@ -208,7 +210,7 @@
 
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            p A pesar de todas estas ventajas, también es importante reconocer que la tercerización acarrea ciertos riesgos, como la pérdida en el control de un servicio, calidad inferior a la acordada inicialmente, conflictos internos, dependencia del proveedor, riesgo de pérdida del conocimiento interno y de no alcanzar los objetivos para los que se contrató al proveedor, entre otros (Pirani, 2021). Por ello, es necesaria la evaluación y monitoreo continuo dentro del cual se pueden revisar temas como la gestión de la confianza e integridad de la información brindada al proveedor, su situación financiera, reputación en el mercado, análisis en los cambios de estrategia del proveedor, cumplimiento de sus requisitos legales, capacidad de respuesta y la claridad existente con respecto a la propiedad intelectual, etc. (Pirani, 2021). Todo esto con el fin de tener buenas relaciones entre la parte contratante y el contratado, y asegurarse de obtener la mejor calidad en la labor tercerizada. 
+            p A pesar de todas estas ventajas, también es importante reconocer que la tercerización acarrea ciertos riesgos, como la pérdida en el control de un servicio, calidad inferior a la acordada inicialmente, conflictos internos, dependencia del proveedor, riesgo de pérdida del conocimiento interno y de no alcanzar los objetivos para los que se contrató al proveedor, entre otros. Por ello, es necesaria la evaluación y monitoreo continuo dentro del cual se pueden revisar temas como la gestión de la confianza e integridad de la información brindada al proveedor, su situación financiera, reputación en el mercado, análisis en los cambios de estrategia del proveedor, cumplimiento de sus requisitos legales, capacidad de respuesta y la claridad existente con respecto a la propiedad intelectual, etc. Todo esto con el fin de tener buenas relaciones entre la parte contratante y el contratado, y asegurarse de obtener la mejor calidad en la labor tercerizada (Meza, 2022).
           .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema1/img15.svg', alt='Texto que describa la imagen')
@@ -235,7 +237,7 @@
       .col-lg-6
         .bloque-texto-f.color-secundario.p-4.mt-3 
           .bloque-texto-f__texto
-            p La responsabilidad contractual tiene su origen en el incumplimiento de las obligaciones suscritas entre las partes, dado que existe una responsabilidad contractual que nace de no haberse cumplido un acuerdo de voluntades plasmadas, creándose una obligación de reparar el daño, existiendo una obligación por indemnizar cuando se demuestre la culpa. (Conceptos jurídicos, s.f.).
+            p La responsabilidad contractual está definida a partir de muchos contextos pero, en conclusión, resulta siendo el conjunto de obligaciones suscritas entre las partes de un acuerdo cuyo incumplimiento traerá consecuencias, las cuales deben estar contempladas dentro del mismo contrato. En Colombia es el artículo 1602 del Código Civil Colombiano el que dispone sobre esta responsabilidad.
 
     .row.mt-5
       p Para que esta responsabilidad contractual prospere, se deben demostrar algunos elementos, como los siguientes:
@@ -272,8 +274,8 @@
 
     .row.justify-content-around.align-items-center.mt-3
       .col-lg-12
-        .cajonAmarillo.bgr-tarjeta-tema1.p-4.mt-5
-          p(data-aos="fade-down") La gestión empresarial es el proceso por el cual se entrelazan las estrategias de producción y distribución de bienes y servicios, las cuales son desarrolladas por personas competentes encargadas de realizar un análisis del entorno y proponer estrategias que contribuyan al incremento de la competitividad y productividad de la organización. A continuación, se presentan algunos modelos de gestión.
+        .cajonAmarillo.bgr-tarjeta-tema1.p-4
+          p.mb-0(data-aos="fade-down") La gestión empresarial es el proceso por el cual se entrelazan las estrategias de producción y distribución de bienes y servicios, las cuales son desarrolladas por personas competentes encargadas de realizar un análisis del entorno y proponer estrategias que contribuyan al incremento de la competitividad y productividad de la organización. A continuación, se presentan algunos modelos de gestión.
 
     .row.justify-content-around.align-items-center.mt-5
       .col-lg-12

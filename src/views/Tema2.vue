@@ -248,7 +248,7 @@
       SlyderA(tipo="b")
         .row.p-2.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            p Las normas ISO son un conjunto de normas orientadas a ordenar la gestión de una empresa en sus distintos ámbitos. Aunque su implementación es de carácter voluntario, han ganado gran reconocimiento y aceptación internacional debido a la importancia que ha tomado la figura y la opinión de los consumidores. Las normas ISO son establecidas por el Organismo Internacional de Estandarización (ISO), y se componen de estándares y guías relacionados con sistemas y herramientas específicas de gestión aplicables en cualquier tipo de organización (ISO, 2015).
+            p Las normas ISO son un conjunto de normas orientadas a ordenar la gestión de una empresa en sus distintos ámbitos. Aunque su implementación es de carácter voluntario, han ganado gran reconocimiento y aceptación internacional debido a la importancia que ha tomado la figura y la opinión de los consumidores. Son establecidas por el Organismo Internacional de Estandarización (ISO), y se componen de estándares y guías relacionados con sistemas y herramientas específicas de gestión aplicables en cualquier tipo de organización.
           .col-md-5
             figure(data-aos="zoom-in-left")
               img(src='@/assets/curso/temas/tema2/img15.svg', alt='Texto que describa la imagen')
